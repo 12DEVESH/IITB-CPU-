@@ -9,3 +9,6 @@ code register which has two flags Carry flag (c) and Zero flag (z). The IITB-CPU
 general enough to solve complex problems. The architecture allows predicated instruction execution 
 and multiple load and store execution. There are three machine-code instruction formats (R, I, and J
 type) and a total of 14 instructions.
+
+INSTRUCTION FORMAT: ![instruction format](https://user-images.githubusercontent.com/96682968/205432219-4e4b40e3-d1f2-45f0-9a7e-0576e0d482a4.PNG)
+
