@@ -11,7 +11,12 @@ and multiple load and store execution. There are three machine-code instruction 
 type) and a total of 14 instructions.
 
 INSTRUCTION FORMAT: 
+
 ![instruction format](https://user-images.githubusercontent.com/96682968/205432219-4e4b40e3-d1f2-45f0-9a7e-0576e0d482a4.PNG)
 INSTRUCTION ENCODING:
-![intr encoding](https://user-images.githubusercontent.com/96682968/205432344-3f71f228-0cca-4aed-ad07-68f8cb70839f.PNG)
 
+![intr encoding](https://user-images.githubusercontent.com/96682968/205432344-3f71f228-0cca-4aed-ad07-68f8cb70839f.PNG)
+INSTRUCTION DESCRIPTION:
+
+![instr desc](https://user-images.githubusercontent.com/96682968/205432453-7139b63a-f554-454f-a9f7-7a48e9920bf3.PNG)
+![instr desc2](https://user-images.githubusercontent.com/96682968/205432462-cae834a1-e383-4959-b173-df042aa8b84d.PNG)
